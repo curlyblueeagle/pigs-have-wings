@@ -1,0 +1,10 @@
+/.metadata/
+**/*.jar
+**/*.log
+**/target
+**/classes
+**/.classpath
+**/.project
+.settings/
+**/.gradle
+**/.recommenders
